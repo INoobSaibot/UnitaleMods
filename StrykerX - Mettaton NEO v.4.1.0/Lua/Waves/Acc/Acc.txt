@@ -1,0 +1,3 @@
+Acc = Accompany
+
+Attacks that will happen along other attacks.
